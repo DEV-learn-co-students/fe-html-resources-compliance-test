@@ -16,3 +16,4 @@ resources: 9
 - [Compress Images In GIMP](https://www.youtube.com/watch?v=x-3fp4ksoRc)
 - [ISO Lang Codes](http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 - [What does the Charset Attribute Do?](http://community.spiceworks.com/topic/91624-what-does-charset-utf-8-mean)
+- [Faster HTML Creation Using Emmet](http://www.hongkiat.com/blog/html-css-faster-emmet/)
