@@ -17,3 +17,5 @@ resources: 9
 - [ISO Lang Codes](http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 - [What does the Charset Attribute Do?](http://community.spiceworks.com/topic/91624-what-does-charset-utf-8-mean)
 - [Faster HTML Creation Using Emmet](http://www.hongkiat.com/blog/html-css-faster-emmet/)
+- [HTML Element Lookup Refernce](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [HTML Element Cheatsheet](http://overapi.com/html-dom/)
