@@ -1,10 +1,3 @@
----
-language: html
-tags: html, elements
-type: resources
-resources: 9
----
-
 ## Resources
 
 - [Google SEO Guide](http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/en/us/webmasters/docs/search-engine-optimization-starter-guide.pdf)
