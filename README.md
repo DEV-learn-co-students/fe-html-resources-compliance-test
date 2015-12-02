@@ -12,3 +12,5 @@
 - [Faster HTML Creation Using Emmet](http://www.hongkiat.com/blog/html-css-faster-emmet/)
 - [HTML Element Lookup Refernce](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [HTML Element Cheatsheet](http://overapi.com/html-dom/)
+
+<a href='https://learn.co/lessons/fe-html-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
