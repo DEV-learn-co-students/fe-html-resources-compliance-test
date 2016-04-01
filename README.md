@@ -11,6 +11,6 @@
 - [What does the Charset Attribute Do?](http://community.spiceworks.com/topic/91624-what-does-charset-utf-8-mean)
 - [Faster HTML Creation Using Emmet](http://www.hongkiat.com/blog/html-css-faster-emmet/)
 - [HTML Element Lookup Refernce](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-- [HTML Element Cheatsheet](http://overapi.com/html-dom/)
+- [HTML Element Cheatsheet](http://overapi.com/static/cs/html-cheat-sheet.pdf)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-html-resources' title='Resources'>Resources</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-html-resources'>HTML Resources</a> on Learn.co and start learning to code for free.</p>
